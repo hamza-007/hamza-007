@@ -3,7 +3,7 @@
  </center>
 
   
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-007&&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-007&&show_icons=true&title_color=f55190&icon_color=f55190&text_color=5154f5&bg_color=ffffff" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-007&layout=compact" />
 
   

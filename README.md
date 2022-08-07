@@ -14,7 +14,7 @@
 <div style="display : flex;">
   <summary>:zap: GitHub Stats</summary>
 <br/>
-  <img align="center" alt="Hamza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hamza-007&show_icons=true&hide_border=false&title_color=000000&icon_color=000000&bg_color=ffffff&text_color=000000&border_color=0c1a25" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-007&layout=compact" />
 
 <br/><br/>
 
@@ -68,8 +68,8 @@
   
   
   
-**hamza-007/hamza-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-007&layout=compact" />
+
+
 
 Here are some ideas to get you started:
 

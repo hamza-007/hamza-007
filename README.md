@@ -1,15 +1,6 @@
 
-  
-  
   <h1> Hi there, I'm Hamza - Computer Science Student 👋 </h1>
   
-
-
-
-
-
-
-
 
 <div style="display : flex;">
   <summary>:zap: GitHub Stats</summary>
@@ -23,85 +14,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-007&layout=compact" />
   <br/><br/><br/>
 </div>
-
-
-
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<center>
-  <h1>Hi There ! 👋</h1>
- </center>
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Languages and Tools:
@@ -123,6 +35,3 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
 </div>
-
-
-

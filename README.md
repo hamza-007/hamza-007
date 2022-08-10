@@ -5,7 +5,7 @@
 <div>
   <summary>:zap: GitHub Stats</summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=hamza-007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=hamza-007&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffffff" />
 
 <br/><br/>
 
